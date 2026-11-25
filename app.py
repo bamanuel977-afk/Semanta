@@ -191,7 +191,16 @@ def tts():
 @app.get("/")
 def index():
     return send_from_directory(WEB, "index.html")
-
+ 
+@app.get("/sitemap.xml")
+def sitemap():
+    xml = """<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://semanta-rho.vercel.app/</loc>
+    </url>
+</urlset>"""
+    return Response(xml, mimetype="application/xml")
 
 @app.get("/<path:path>")
 def static_files(path):
