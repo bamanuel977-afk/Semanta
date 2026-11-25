@@ -1,0 +1,2022 @@
+{
+  "c": {
+    "hello": {
+      "am": "ሰላም",
+      "om": "akkam",
+      "ti": "ሰላም",
+      "so": "salaam",
+      "ar": "مرحبا"
+    },
+    "goodbye": {
+      "am": "ቻው",
+      "om": "nagaatti",
+      "ti": "ደሓን ኩን",
+      "so": "nabad gelyo",
+      "ar": "مع السلامة"
+    },
+    "thank you": {
+      "am": "አመሰግናለሁ",
+      "om": "galatoomi",
+      "ti": "የቐንየለይ",
+      "so": "mahadsanid",
+      "ar": "شكرا"
+    },
+    "please": {
+      "am": "እባክህ",
+      "om": "maaloo",
+      "ti": "በጃኻ",
+      "so": "fadlan",
+      "ar": "من فضلك"
+    },
+    "yes": { "am": "አዎ", "om": "eeyyee", "ti": "እወ", "so": "haa", "ar": "نعم" },
+    "no": { "am": "አይ", "om": "lakki", "ti": "ኣይፋል", "so": "maya", "ar": "لا" },
+    "sorry": {
+      "am": "ይቅርታ",
+      "om": "dhiifama",
+      "ti": "ይቕሬታ",
+      "so": "raali ahow",
+      "ar": "آسف"
+    },
+    "welcome": {
+      "am": "እንኳን ደህና መጡ",
+      "om": "baga nagaan dhuftan",
+      "ti": "እንቋዕ ብደሓን መጻእካ",
+      "so": "soo dhawow",
+      "ar": "أهلا وسهلا"
+    },
+    "good morning": {
+      "am": "እንደምን አደርክ",
+      "om": "akkam bulte",
+      "ti": "ከመይ ሓዲርካ",
+      "so": "subax wanaagsan",
+      "ar": "صباح الخير"
+    },
+    "good night": {
+      "am": "ደህና እደር",
+      "om": "halkan nagaa",
+      "ti": "ደሓን ሕደር",
+      "so": "habeen wanaagsan",
+      "ar": "تصبح على خير"
+    },
+    "how are you": {
+      "am": "እንዴት ነህ",
+      "om": "akkam jirta",
+      "ti": "ከመይ ኣለኻ",
+      "so": "sidee tahay",
+      "ar": "كيف حالك"
+    },
+    "name": {
+      "am": "ስም",
+      "om": "maqaa",
+      "ti": "ስም",
+      "so": "magac",
+      "ar": "اسم"
+    },
+    "mother": {
+      "am": "እናት",
+      "om": "haadha",
+      "ti": "ኣደ",
+      "so": "hooyo",
+      "ar": "أم"
+    },
+    "father": {
+      "am": "አባት",
+      "om": "abbaa",
+      "ti": "ኣቦ",
+      "so": "aabo",
+      "ar": "أب"
+    },
+    "brother": {
+      "am": "ወንድም",
+      "om": "obboleessa",
+      "ti": "ሓው",
+      "so": "walaal",
+      "ar": "أخ"
+    },
+    "sister": {
+      "am": "እህት",
+      "om": "obboleettii",
+      "ti": "ሓፍቲ",
+      "so": "walaalo",
+      "ar": "أخت"
+    },
+    "son": {
+      "am": "ወንድ ልጅ",
+      "om": "ilma",
+      "ti": "ወዲ",
+      "so": "wiil",
+      "ar": "ابن"
+    },
+    "daughter": {
+      "am": "ሴት ልጅ",
+      "om": "intala",
+      "ti": "ጓል",
+      "so": "gabadh",
+      "ar": "ابنة"
+    },
+    "child": {
+      "am": "ልጅ",
+      "om": "mucaa",
+      "ti": "ቆልዓ",
+      "so": "ilmo",
+      "ar": "طفل"
+    },
+    "baby": {
+      "am": "ሕፃን",
+      "om": "daa'ima",
+      "ti": "ሕጻን",
+      "so": "ilmo yar",
+      "ar": "رضيع"
+    },
+    "man": {
+      "am": "ወንድ",
+      "om": "dhiira",
+      "ti": "ሰብኣይ",
+      "so": "nin",
+      "ar": "رجل"
+    },
+    "woman": {
+      "am": "ሴት",
+      "om": "dubartii",
+      "ti": "ሰበይቲ",
+      "so": "naag",
+      "ar": "امرأة"
+    },
+    "husband": {
+      "am": "ባል",
+      "om": "dhirsa",
+      "ti": "ሰብኣይ",
+      "so": "nin",
+      "ar": "زوج"
+    },
+    "wife": {
+      "am": "ሚስት",
+      "om": "niitii",
+      "ti": "ሰበይቲ",
+      "so": "xaas",
+      "ar": "زوجة"
+    },
+    "friend": {
+      "am": "ጓደኛ",
+      "om": "hiriyyaa",
+      "ti": "ዓርኪ",
+      "so": "saaxiib",
+      "ar": "صديق"
+    },
+    "neighbour": {
+      "am": "ጎረቤት",
+      "om": "olloo",
+      "ti": "ጎረቤት",
+      "so": "deris",
+      "ar": "جار"
+    },
+    "person": {
+      "am": "ሰው",
+      "om": "nama",
+      "ti": "ሰብ",
+      "so": "qof",
+      "ar": "شخص"
+    },
+    "teacher": {
+      "am": "አስተማሪ",
+      "om": "barsiisaa",
+      "ti": "መምህር",
+      "so": "macallin",
+      "ar": "معلم"
+    },
+    "student": {
+      "am": "ተማሪ",
+      "om": "barataa",
+      "ti": "ተማሃራይ",
+      "so": "arday",
+      "ar": "طالب"
+    },
+    "doctor": {
+      "am": "ሐኪም",
+      "om": "doktora",
+      "ti": "ሓኪም",
+      "so": "dhakhtar",
+      "ar": "طبيب"
+    },
+    "farmer": {
+      "am": "ገበሬ",
+      "om": "qotee bulaa",
+      "ti": "ሓረስታይ",
+      "so": "beeraley",
+      "ar": "فلاح"
+    },
+    "king": {
+      "am": "ንጉሥ",
+      "om": "mootii",
+      "ti": "ንጉስ",
+      "so": "boqor",
+      "ar": "ملك"
+    },
+    "head": {
+      "am": "ራስ",
+      "om": "mataa",
+      "ti": "ርእሲ",
+      "so": "madax",
+      "ar": "رأس"
+    },
+    "eye": { "am": "ዓይን", "om": "ija", "ti": "ዓይኒ", "so": "il", "ar": "عين" },
+    "ear": {
+      "am": "ጆሮ",
+      "om": "gurra",
+      "ti": "እዝኒ",
+      "so": "dheg",
+      "ar": "أذن"
+    },
+    "nose": {
+      "am": "አፍንጫ",
+      "om": "funyaan",
+      "ti": "ኣፍንጫ",
+      "so": "san",
+      "ar": "أنف"
+    },
+    "mouth": {
+      "am": "አፍ",
+      "om": "afaan",
+      "ti": "ኣፍ",
+      "so": "afka",
+      "ar": "فم"
+    },
+    "face": {
+      "am": "ፊት",
+      "om": "fuula",
+      "ti": "ገጽ",
+      "so": "wejiga",
+      "ar": "وجه"
+    },
+    "hand": {
+      "am": "እጅ",
+      "om": "harka",
+      "ti": "ኢድ",
+      "so": "gacan",
+      "ar": "يد"
+    },
+    "foot": {
+      "am": "እግር",
+      "om": "miila",
+      "ti": "እግሪ",
+      "so": "cag",
+      "ar": "قدم"
+    },
+    "heart": {
+      "am": "ልብ",
+      "om": "onnee",
+      "ti": "ልቢ",
+      "so": "wadne",
+      "ar": "قلب"
+    },
+    "tooth": {
+      "am": "ጥርስ",
+      "om": "ilkaan",
+      "ti": "ስኒ",
+      "so": "ilig",
+      "ar": "سن"
+    },
+    "hair": {
+      "am": "ፀጉር",
+      "om": "rifeensa",
+      "ti": "ጸጉሪ",
+      "so": "timo",
+      "ar": "شعر"
+    },
+    "blood": {
+      "am": "ደም",
+      "om": "dhiiga",
+      "ti": "ደም",
+      "so": "dhiig",
+      "ar": "دم"
+    },
+    "bone": {
+      "am": "አጥንት",
+      "om": "lafee",
+      "ti": "ዓጽሚ",
+      "so": "lafo",
+      "ar": "عظم"
+    },
+    "stomach": {
+      "am": "ሆድ",
+      "om": "garaa",
+      "ti": "ከብዲ",
+      "so": "calool",
+      "ar": "معدة"
+    },
+    "food": {
+      "am": "ምግብ",
+      "om": "nyaata",
+      "ti": "መግቢ",
+      "so": "cunto",
+      "ar": "طعام"
+    },
+    "water": {
+      "am": "ውሃ",
+      "om": "bishaan",
+      "ti": "ማይ",
+      "so": "biyo",
+      "ar": "ماء"
+    },
+    "bread": { "am": "ዳቦ", "om": "daabboo", "so": "rooti", "ar": "خبز" },
+    "milk": {
+      "am": "ወተት",
+      "om": "aannan",
+      "ti": "ጸባ",
+      "so": "caano",
+      "ar": "حليب"
+    },
+    "meat": {
+      "am": "ሥጋ",
+      "om": "foon",
+      "ti": "ስጋ",
+      "so": "hilib",
+      "ar": "لحم"
+    },
+    "egg": {
+      "am": "እንቁላል",
+      "om": "killee",
+      "ti": "እንቋቝሖ",
+      "so": "ukun",
+      "ar": "بيضة"
+    },
+    "rice": {
+      "am": "ሩዝ",
+      "om": "ruuzii",
+      "ti": "ሩዝ",
+      "so": "bariis",
+      "ar": "أرز"
+    },
+    "salt": {
+      "am": "ጨው",
+      "om": "soogidda",
+      "ti": "ጨው",
+      "so": "milix",
+      "ar": "ملح"
+    },
+    "sugar": {
+      "am": "ስኳር",
+      "om": "sukkaara",
+      "ti": "ሽኮር",
+      "so": "sonkor",
+      "ar": "سكر"
+    },
+    "coffee": {
+      "am": "ቡና",
+      "om": "buna",
+      "ti": "ቡን",
+      "so": "bun",
+      "ar": "قهوة"
+    },
+    "tea": {
+      "am": "ሻይ",
+      "om": "shaayii",
+      "ti": "ሻሂ",
+      "so": "shaah",
+      "ar": "شاي"
+    },
+    "fish": {
+      "am": "ዓሣ",
+      "om": "qurxummii",
+      "ti": "ዓሳ",
+      "so": "kalluun",
+      "ar": "سمك"
+    },
+    "fruit": {
+      "am": "ፍራፍሬ",
+      "om": "fuduraa",
+      "ti": "ፍረ",
+      "so": "miro",
+      "ar": "فاكهة"
+    },
+    "vegetable": {
+      "am": "አትክልት",
+      "om": "kuduraa",
+      "ti": "ኣትክልቲ",
+      "so": "khudrad",
+      "ar": "خضار"
+    },
+    "banana": {
+      "am": "ሙዝ",
+      "om": "muuzii",
+      "ti": "ሙዝ",
+      "so": "moos",
+      "ar": "موز"
+    },
+    "orange": {
+      "am": "ብርቱካን",
+      "om": "burtukaana",
+      "ti": "ብርቱካን",
+      "so": "liin",
+      "ar": "برتقال"
+    },
+    "tomato": {
+      "am": "ቲማቲም",
+      "om": "timaatima",
+      "ti": "ቲማቲም",
+      "so": "yaanyo",
+      "ar": "طماطم"
+    },
+    "onion": {
+      "am": "ሽንኩርት",
+      "om": "shunkurtii",
+      "ti": "ሽጉርቲ",
+      "so": "basal",
+      "ar": "بصل"
+    },
+    "potato": { "am": "ድንች", "om": "dinnicha", "so": "baradho", "ar": "بطاطس" },
+    "honey": {
+      "am": "ማር",
+      "om": "damma",
+      "ti": "መዓር",
+      "so": "malab",
+      "ar": "عسل"
+    },
+    "oil": {
+      "am": "ዘይት",
+      "om": "zayitii",
+      "ti": "ዘይቲ",
+      "so": "saliid",
+      "ar": "زيت"
+    },
+    "house": {
+      "am": "ቤት",
+      "om": "mana",
+      "ti": "ገዛ",
+      "so": "guri",
+      "ar": "بيت"
+    },
+    "door": {
+      "am": "በር",
+      "om": "balbala",
+      "ti": "ማዕጾ",
+      "so": "albaab",
+      "ar": "باب"
+    },
+    "window": {
+      "am": "መስኮት",
+      "om": "foddaa",
+      "ti": "መስኮት",
+      "so": "daaqad",
+      "ar": "نافذة"
+    },
+    "table": {
+      "am": "ጠረጴዛ",
+      "om": "minjaala",
+      "ti": "ጠረጴዛ",
+      "so": "miis",
+      "ar": "طاولة"
+    },
+    "chair": {
+      "am": "ወንበር",
+      "om": "teessoo",
+      "ti": "ወንበር",
+      "so": "kursi",
+      "ar": "كرسي"
+    },
+    "bed": {
+      "am": "አልጋ",
+      "om": "siree",
+      "ti": "ዓራት",
+      "so": "sariir",
+      "ar": "سرير"
+    },
+    "key": {
+      "am": "ቁልፍ",
+      "om": "furtuu",
+      "ti": "መፍትሕ",
+      "so": "fure",
+      "ar": "مفتاح"
+    },
+    "book": {
+      "am": "መጽሐፍ",
+      "om": "kitaaba",
+      "ti": "መጽሓፍ",
+      "so": "buug",
+      "ar": "كتاب"
+    },
+    "paper": {
+      "am": "ወረቀት",
+      "om": "waraqaa",
+      "ti": "ወረቐት",
+      "so": "warqad",
+      "ar": "ورق"
+    },
+    "telephone": {
+      "am": "ስልክ",
+      "om": "bilbila",
+      "ti": "ተሌፎን",
+      "so": "taleefan",
+      "ar": "هاتف"
+    },
+    "money": {
+      "am": "ገንዘብ",
+      "om": "maallaqa",
+      "ti": "ገንዘብ",
+      "so": "lacag",
+      "ar": "مال"
+    },
+    "clothes": {
+      "am": "ልብስ",
+      "om": "uffata",
+      "ti": "ክዳን",
+      "so": "dhar",
+      "ar": "ملابس"
+    },
+    "shoe": {
+      "am": "ጫማ",
+      "om": "kophee",
+      "ti": "ጫማ",
+      "so": "kabo",
+      "ar": "حذاء"
+    },
+    "light": {
+      "am": "ብርሃን",
+      "om": "ifa",
+      "ti": "ብርሃን",
+      "so": "iftiin",
+      "ar": "ضوء"
+    },
+    "fire": {
+      "am": "እሳት",
+      "om": "ibidda",
+      "ti": "ሓዊ",
+      "so": "dab",
+      "ar": "نار"
+    },
+    "car": {
+      "am": "መኪና",
+      "om": "konkolaataa",
+      "ti": "መኪና",
+      "so": "baabuur",
+      "ar": "سيارة"
+    },
+    "road": {
+      "am": "መንገድ",
+      "om": "karaa",
+      "ti": "መገዲ",
+      "so": "waddo",
+      "ar": "طريق"
+    },
+    "sun": {
+      "am": "ፀሐይ",
+      "om": "aduu",
+      "ti": "ጸሓይ",
+      "so": "qorrax",
+      "ar": "شمس"
+    },
+    "moon": {
+      "am": "ጨረቃ",
+      "om": "ji'a",
+      "ti": "ወርሒ",
+      "so": "dayax",
+      "ar": "قمر"
+    },
+    "star": {
+      "am": "ኮከብ",
+      "om": "urjii",
+      "ti": "ኮኸብ",
+      "so": "xiddig",
+      "ar": "نجم"
+    },
+    "sky": {
+      "am": "ሰማይ",
+      "om": "samii",
+      "ti": "ሰማይ",
+      "so": "samo",
+      "ar": "سماء"
+    },
+    "rain": {
+      "am": "ዝናብ",
+      "om": "rooba",
+      "ti": "ዝናብ",
+      "so": "roob",
+      "ar": "مطر"
+    },
+    "wind": {
+      "am": "ነፋስ",
+      "om": "qilleensa",
+      "ti": "ንፋስ",
+      "so": "dabayl",
+      "ar": "ريح"
+    },
+    "river": {
+      "am": "ወንዝ",
+      "om": "laga",
+      "ti": "ሩባ",
+      "so": "webi",
+      "ar": "نهر"
+    },
+    "mountain": {
+      "am": "ተራራ",
+      "om": "tulluu",
+      "ti": "ጎቦ",
+      "so": "buur",
+      "ar": "جبل"
+    },
+    "tree": {
+      "am": "ዛፍ",
+      "om": "mukaa",
+      "ti": "ኦም",
+      "so": "geed",
+      "ar": "شجرة"
+    },
+    "land": {
+      "am": "መሬት",
+      "om": "lafa",
+      "ti": "መሬት",
+      "so": "dhul",
+      "ar": "أرض"
+    },
+    "sea": {
+      "am": "ባሕር",
+      "om": "galaana",
+      "ti": "ባሕሪ",
+      "so": "badda",
+      "ar": "بحر"
+    },
+    "animal": {
+      "am": "እንስሳ",
+      "om": "bineensa",
+      "ti": "እንስሳ",
+      "so": "xayawaan",
+      "ar": "حيوان"
+    },
+    "cow": { "am": "ላም", "om": "saa", "ti": "ላም", "so": "sac", "ar": "بقرة" },
+    "dog": { "am": "ውሻ", "om": "saree", "ti": "ከልቢ", "so": "eey", "ar": "كلب" },
+    "horse": {
+      "am": "ፈረስ",
+      "om": "farda",
+      "ti": "ፈረስ",
+      "so": "faras",
+      "ar": "حصان"
+    },
+    "goat": { "am": "ፍየል", "om": "re'ee", "so": "riyo", "ar": "ماعز" },
+    "sheep": { "am": "በግ", "om": "hoolaa", "so": "adhi", "ar": "خروف" },
+    "lion": {
+      "am": "አንበሳ",
+      "om": "leenca",
+      "ti": "ኣንበሳ",
+      "so": "libaax",
+      "ar": "أسد"
+    },
+    "red": {
+      "am": "ቀይ",
+      "om": "diimaa",
+      "ti": "ቀይሕ",
+      "so": "casaan",
+      "ar": "أحمر"
+    },
+    "green": {
+      "am": "አረንጓዴ",
+      "om": "magariisa",
+      "ti": "ሓምላይ",
+      "so": "cagaar",
+      "ar": "أخضر"
+    },
+    "yellow": { "am": "ቢጫ", "om": "keelloo", "so": "huruud", "ar": "أصفر" },
+    "black": {
+      "am": "ጥቁር",
+      "om": "gurraacha",
+      "ti": "ጸሊም",
+      "so": "madow",
+      "ar": "أسود"
+    },
+    "white": {
+      "am": "ነጭ",
+      "om": "adii",
+      "ti": "ጻዕዳ",
+      "so": "caddaan",
+      "ar": "أبيض"
+    },
+    "blue": {
+      "am": "ሰማያዊ",
+      "om": "cuquliisa",
+      "ti": "ሰማያዊ",
+      "so": "buluug",
+      "ar": "أزرق"
+    },
+    "zero": {
+      "am": "ዜሮ",
+      "om": "zeeroo",
+      "ti": "ዜሮ",
+      "so": "eber",
+      "ar": "صفر"
+    },
+    "one": {
+      "am": "አንድ",
+      "om": "tokko",
+      "ti": "ሓደ",
+      "so": "hal",
+      "ar": "واحد"
+    },
+    "two": {
+      "am": "ሁለት",
+      "om": "lama",
+      "ti": "ክልተ",
+      "so": "laba",
+      "ar": "اثنان"
+    },
+    "three": {
+      "am": "ሦስት",
+      "om": "sadii",
+      "ti": "ሰለስተ",
+      "so": "saddex",
+      "ar": "ثلاثة"
+    },
+    "four": {
+      "am": "አራት",
+      "om": "afur",
+      "ti": "ኣርባዕተ",
+      "so": "afar",
+      "ar": "أربعة"
+    },
+    "five": {
+      "am": "አምስት",
+      "om": "shan",
+      "ti": "ሓሙሽተ",
+      "so": "shan",
+      "ar": "خمسة"
+    },
+    "six": {
+      "am": "ስድስት",
+      "om": "ja'a",
+      "ti": "ሽድሽተ",
+      "so": "lix",
+      "ar": "ستة"
+    },
+    "seven": {
+      "am": "ሰባት",
+      "om": "torba",
+      "ti": "ሸውዓተ",
+      "so": "toddobo",
+      "ar": "سبعة"
+    },
+    "eight": {
+      "am": "ስምንት",
+      "om": "saddeet",
+      "ti": "ሸሞንተ",
+      "so": "siddeed",
+      "ar": "ثمانية"
+    },
+    "nine": {
+      "am": "ዘጠኝ",
+      "om": "sagal",
+      "ti": "ትሽዓተ",
+      "so": "sagaal",
+      "ar": "تسعة"
+    },
+    "ten": {
+      "am": "አስር",
+      "om": "kudhan",
+      "ti": "ዓሰርተ",
+      "so": "toban",
+      "ar": "عشرة"
+    },
+    "hundred": {
+      "am": "መቶ",
+      "om": "dhibba",
+      "ti": "ሚእቲ",
+      "so": "boqol",
+      "ar": "مئة"
+    },
+    "thousand": {
+      "am": "ሺህ",
+      "om": "kuma",
+      "ti": "ሽሕ",
+      "so": "kun",
+      "ar": "ألف"
+    },
+    "time": {
+      "am": "ጊዜ",
+      "om": "yeroo",
+      "ti": "ግዜ",
+      "so": "waqti",
+      "ar": "وقت"
+    },
+    "now": {
+      "am": "አሁን",
+      "om": "amma",
+      "ti": "ሕጂ",
+      "so": "hadda",
+      "ar": "الآن"
+    },
+    "day": {
+      "am": "ቀን",
+      "om": "guyyaa",
+      "ti": "መዓልቲ",
+      "so": "maalin",
+      "ar": "يوم"
+    },
+    "night": {
+      "am": "ሌሊት",
+      "om": "halkan",
+      "ti": "ለይቲ",
+      "so": "habeen",
+      "ar": "ليل"
+    },
+    "morning": {
+      "am": "ጠዋት",
+      "om": "ganama",
+      "ti": "ንግሆ",
+      "so": "subax",
+      "ar": "صباح"
+    },
+    "evening": {
+      "am": "ምሽት",
+      "om": "galgala",
+      "ti": "ምሸት",
+      "so": "fiid",
+      "ar": "مساء"
+    },
+    "today": {
+      "am": "ዛሬ",
+      "om": "har'a",
+      "ti": "ሎሚ",
+      "so": "maanta",
+      "ar": "اليوم"
+    },
+    "tomorrow": {
+      "am": "ነገ",
+      "om": "boru",
+      "ti": "ጽባሕ",
+      "so": "berri",
+      "ar": "غدا"
+    },
+    "yesterday": {
+      "am": "ትናንት",
+      "om": "kaleessa",
+      "ti": "ትማሊ",
+      "so": "shalay",
+      "ar": "أمس"
+    },
+    "week": {
+      "am": "ሳምንት",
+      "om": "torban",
+      "ti": "ሰሙን",
+      "so": "toddobaad",
+      "ar": "أسبوع"
+    },
+    "month": {
+      "am": "ወር",
+      "om": "ji'a",
+      "ti": "ወርሒ",
+      "so": "bil",
+      "ar": "شهر"
+    },
+    "year": {
+      "am": "ዓመት",
+      "om": "waggaa",
+      "ti": "ዓመት",
+      "so": "sannad",
+      "ar": "سنة"
+    },
+    "city": {
+      "am": "ከተማ",
+      "om": "magaalaa",
+      "ti": "ከተማ",
+      "so": "magaalo",
+      "ar": "مدينة"
+    },
+    "village": {
+      "am": "መንደር",
+      "om": "ganda",
+      "ti": "ዓዲ",
+      "so": "tuulo",
+      "ar": "قرية"
+    },
+    "market": {
+      "am": "ገበያ",
+      "om": "gabaa",
+      "ti": "ዕዳጋ",
+      "so": "suuq",
+      "ar": "سوق"
+    },
+    "school": {
+      "am": "ትምህርት ቤት",
+      "om": "mana barumsaa",
+      "ti": "ቤት ትምህርቲ",
+      "so": "dugsi",
+      "ar": "مدرسة"
+    },
+    "hospital": {
+      "am": "ሆስፒታል",
+      "om": "hospitaala",
+      "ti": "ሆስፒታል",
+      "so": "isbitaal",
+      "ar": "مستشفى"
+    },
+    "mosque": {
+      "am": "መስጊድ",
+      "om": "masjida",
+      "ti": "መስጊድ",
+      "so": "masaajid",
+      "ar": "مسجد"
+    },
+    "country": {
+      "am": "አገር",
+      "om": "biyya",
+      "ti": "ሃገር",
+      "so": "waddan",
+      "ar": "بلد"
+    },
+    "bus": {
+      "am": "አውቶቡስ",
+      "om": "awutobusii",
+      "ti": "ኣውቶቡስ",
+      "so": "bas",
+      "ar": "حافلة"
+    },
+    "train": {
+      "am": "ባቡር",
+      "om": "baabura",
+      "ti": "ባቡር",
+      "so": "tareen",
+      "ar": "قطار"
+    },
+    "airplane": {
+      "am": "አውሮፕላን",
+      "om": "xiyyaara",
+      "ti": "ነፋሪት",
+      "so": "diyaarad",
+      "ar": "طائرة"
+    },
+    "eat": {
+      "am": "መብላት",
+      "om": "nyaachuu",
+      "ti": "ምብላዕ",
+      "so": "cun",
+      "ar": "أكل"
+    },
+    "drink": {
+      "am": "መጠጣት",
+      "om": "dhuguu",
+      "ti": "ምስታይ",
+      "so": "cab",
+      "ar": "شرب"
+    },
+    "go": {
+      "am": "መሄድ",
+      "om": "deemuu",
+      "ti": "ምኻድ",
+      "so": "tag",
+      "ar": "ذهب"
+    },
+    "come": { "am": "መምጣት", "om": "dhufuu", "ti": "ምምጻእ", "ar": "جاء" },
+    "see": {
+      "am": "ማየት",
+      "om": "arguu",
+      "ti": "ምርኣይ",
+      "so": "arag",
+      "ar": "رأى"
+    },
+    "hear": {
+      "am": "መስማት",
+      "om": "dhaga'uu",
+      "ti": "ምስማዕ",
+      "so": "maqal",
+      "ar": "سمع"
+    },
+    "speak": {
+      "am": "መናገር",
+      "om": "dubbachuu",
+      "ti": "ምዝራብ",
+      "so": "hadal",
+      "ar": "تكلم"
+    },
+    "read": {
+      "am": "ማንበብ",
+      "om": "dubbisuu",
+      "ti": "ምንባብ",
+      "so": "akhri",
+      "ar": "قرأ"
+    },
+    "write": {
+      "am": "መጻፍ",
+      "om": "barreessuu",
+      "ti": "ምጽሓፍ",
+      "so": "qor",
+      "ar": "كتب"
+    },
+    "sleep": {
+      "am": "መተኛት",
+      "om": "rafuu",
+      "ti": "ምድቃስ",
+      "so": "hurdo",
+      "ar": "نام"
+    },
+    "walk": { "am": "መራመድ", "om": "adeemuu", "so": "socod", "ar": "مشى" },
+    "run": {
+      "am": "መሮጥ",
+      "om": "fiiguu",
+      "ti": "ምጉያይ",
+      "so": "orod",
+      "ar": "ركض"
+    },
+    "give": {
+      "am": "መስጠት",
+      "om": "kennuu",
+      "ti": "ምሃብ",
+      "so": "sii",
+      "ar": "أعطى"
+    },
+    "take": {
+      "am": "መውሰድ",
+      "om": "fudhachuu",
+      "ti": "ምውሳድ",
+      "so": "qaado",
+      "ar": "أخذ"
+    },
+    "know": {
+      "am": "ማወቅ",
+      "om": "beekuu",
+      "ti": "ምፍላጥ",
+      "so": "ogaan",
+      "ar": "عرف"
+    },
+    "want": {
+      "am": "መፈለግ",
+      "om": "fedhuu",
+      "ti": "ምድላይ",
+      "so": "doon",
+      "ar": "أراد"
+    },
+    "help": {
+      "am": "መርዳት",
+      "om": "gargaaruu",
+      "ti": "ምሕጋዝ",
+      "so": "caawi",
+      "ar": "ساعد"
+    },
+    "learn": {
+      "am": "መማር",
+      "om": "baruu",
+      "ti": "ምምሃር",
+      "so": "baro",
+      "ar": "تعلم"
+    },
+    "buy": {
+      "am": "መግዛት",
+      "om": "bituu",
+      "ti": "ምግዛእ",
+      "so": "iibso",
+      "ar": "اشترى"
+    },
+    "sell": {
+      "am": "መሸጥ",
+      "om": "gurguruu",
+      "ti": "ምሻጥ",
+      "so": "iibi",
+      "ar": "باع"
+    },
+    "open": {
+      "am": "መክፈት",
+      "om": "banuu",
+      "ti": "ምኽፋት",
+      "so": "fur",
+      "ar": "فتح"
+    },
+    "close": {
+      "am": "መዝጋት",
+      "om": "cufuu",
+      "ti": "ምዕጻው",
+      "so": "xidh",
+      "ar": "أغلق"
+    },
+    "live": {
+      "am": "መኖር",
+      "om": "jiraachuu",
+      "ti": "ምንባር",
+      "so": "nool",
+      "ar": "عاش"
+    },
+    "die": {
+      "am": "መሞት",
+      "om": "du'uu",
+      "ti": "ምሞት",
+      "so": "dhimo",
+      "ar": "مات"
+    },
+    "wait": {
+      "am": "መጠበቅ",
+      "om": "eeguu",
+      "ti": "ምጽባይ",
+      "so": "sug",
+      "ar": "انتظر"
+    },
+    "think": {
+      "am": "ማሰብ",
+      "om": "yaaduu",
+      "ti": "ምሕሳብ",
+      "so": "fakar",
+      "ar": "فكر"
+    },
+    "sit": {
+      "am": "መቀመጥ",
+      "om": "taa'uu",
+      "ti": "ምቕማጥ",
+      "so": "fadhiiso",
+      "ar": "جلس"
+    },
+    "stand": {
+      "am": "መቆም",
+      "om": "dhaabbachuu",
+      "ti": "ምቝም",
+      "so": "istaag",
+      "ar": "وقف"
+    },
+    "laugh": {
+      "am": "መሳቅ",
+      "om": "kofaluu",
+      "ti": "ምስሓቕ",
+      "so": "qosol",
+      "ar": "ضحك"
+    },
+    "cry": {
+      "am": "ማልቀስ",
+      "om": "booyuu",
+      "ti": "ምብካይ",
+      "so": "oohi",
+      "ar": "بكى"
+    },
+    "sing": {
+      "am": "መዘመር",
+      "om": "weeddisuu",
+      "ti": "ምዝማር",
+      "so": "heeso",
+      "ar": "غنى"
+    },
+    "wash": {
+      "am": "መታጠብ",
+      "om": "dhiquu",
+      "ti": "ምሕጻብ",
+      "so": "maydh",
+      "ar": "غسل"
+    },
+    "big": {
+      "am": "ትልቅ",
+      "om": "guddaa",
+      "ti": "ዓቢ",
+      "so": "weyn",
+      "ar": "كبير"
+    },
+    "small": {
+      "am": "ትንሽ",
+      "om": "xiqqaa",
+      "ti": "ንእሽቶ",
+      "so": "yar",
+      "ar": "صغير"
+    },
+    "good": {
+      "am": "ጥሩ",
+      "om": "gaarii",
+      "ti": "ጽቡቕ",
+      "so": "wanaagsan",
+      "ar": "جيد"
+    },
+    "bad": {
+      "am": "መጥፎ",
+      "om": "hamaa",
+      "ti": "ሕማቕ",
+      "so": "xun",
+      "ar": "سيئ"
+    },
+    "new": {
+      "am": "አዲስ",
+      "om": "haaraa",
+      "ti": "ሓድሽ",
+      "so": "cusub",
+      "ar": "جديد"
+    },
+    "old": { "am": "ያረጀ", "om": "durii", "so": "duq", "ar": "قديم" },
+    "long": {
+      "am": "ረጅም",
+      "om": "dheeraa",
+      "ti": "ነዊሕ",
+      "so": "dheer",
+      "ar": "طويل"
+    },
+    "short": {
+      "am": "አጭር",
+      "om": "gabaabaa",
+      "ti": "ሓጺር",
+      "so": "gaaban",
+      "ar": "قصير"
+    },
+    "fast": {
+      "am": "ፈጣን",
+      "om": "ariifataa",
+      "ti": "ቅልጡፍ",
+      "so": "dhaqso",
+      "ar": "سريع"
+    },
+    "hot": { "am": "ሞቃት", "om": "ho'aa", "so": "kulul", "ar": "حار" },
+    "cold": {
+      "am": "ቀዝቃዛ",
+      "om": "qabbanaa",
+      "ti": "ቁሪ",
+      "so": "qabow",
+      "ar": "بارد"
+    },
+    "happy": {
+      "am": "ደስተኛ",
+      "om": "gammadaa",
+      "ti": "ሕጉስ",
+      "so": "faraxsan",
+      "ar": "سعيد"
+    },
+    "strong": {
+      "am": "ጠንካራ",
+      "om": "jabaa",
+      "ti": "ሓያል",
+      "so": "xoog badan",
+      "ar": "قوي"
+    },
+    "weak": {
+      "am": "ደካማ",
+      "om": "dadhabaa",
+      "ti": "ድኹም",
+      "so": "daciif",
+      "ar": "ضعيف"
+    },
+    "rich": {
+      "am": "ሀብታም",
+      "om": "sooressa",
+      "ti": "ሃብታም",
+      "so": "taajir",
+      "ar": "غني"
+    },
+    "poor": {
+      "am": "ድሃ",
+      "om": "hiyyeessa",
+      "ti": "ድኻ",
+      "so": "miskiin",
+      "ar": "فقير"
+    },
+    "easy": {
+      "am": "ቀላል",
+      "om": "salphaa",
+      "ti": "ቀሊል",
+      "so": "fudud",
+      "ar": "سهل"
+    },
+    "difficult": {
+      "am": "ከባድ",
+      "om": "ulfaataa",
+      "ti": "ከቢድ",
+      "so": "adag",
+      "ar": "صعب"
+    },
+    "heavy": {
+      "am": "ከባድ",
+      "om": "ulfaataa",
+      "ti": "ከቢድ",
+      "so": "culus",
+      "ar": "ثقيل"
+    },
+    "true": {
+      "am": "እውነት",
+      "om": "dhugaa",
+      "ti": "ሓቂ",
+      "so": "run",
+      "ar": "حقيقي"
+    },
+    "free": { "am": "ነፃ", "om": "bilisa", "ti": "ነጻ", "so": "xor", "ar": "حر" },
+    "clean": {
+      "am": "ንጹህ",
+      "om": "qulqulluu",
+      "ti": "ጽሩይ",
+      "so": "nadiif",
+      "ar": "نظيف"
+    },
+    "dirty": {
+      "am": "ቆሻሻ",
+      "om": "xuraa'aa",
+      "ti": "ርኹስ",
+      "so": "wasakh",
+      "ar": "وسخ"
+    },
+    "full": {
+      "am": "ሙሉ",
+      "om": "guutuu",
+      "ti": "ምሉእ",
+      "so": "buuxa",
+      "ar": "ممتلئ"
+    },
+    "empty": {
+      "am": "ባዶ",
+      "om": "duwwaa",
+      "ti": "ባዶ",
+      "so": "madhan",
+      "ar": "فارغ"
+    },
+    "love": {
+      "am": "ፍቅር",
+      "om": "jaalala",
+      "ti": "ፍቕሪ",
+      "so": "jacayl",
+      "ar": "حب"
+    },
+    "peace": {
+      "am": "ሰላም",
+      "om": "nagaa",
+      "ti": "ሰላም",
+      "so": "nabad",
+      "ar": "سلام"
+    },
+    "life": {
+      "am": "ሕይወት",
+      "om": "jireenya",
+      "ti": "ህይወት",
+      "so": "nolol",
+      "ar": "حياة"
+    },
+    "death": {
+      "am": "ሞት",
+      "om": "du'a",
+      "ti": "ሞት",
+      "so": "geeri",
+      "ar": "موت"
+    },
+    "hope": {
+      "am": "ተስፋ",
+      "om": "abdii",
+      "ti": "ተስፋ",
+      "so": "rajo",
+      "ar": "أمل"
+    },
+    "fear": {
+      "am": "ፍርሃት",
+      "om": "sodaa",
+      "ti": "ፍርሒ",
+      "so": "cabsi",
+      "ar": "خوف"
+    },
+    "freedom": {
+      "am": "ነፃነት",
+      "om": "bilisummaa",
+      "ti": "ነጻነት",
+      "so": "xorriyad",
+      "ar": "حرية"
+    },
+    "justice": {
+      "am": "ፍትሕ",
+      "om": "haqa",
+      "ti": "ፍትሒ",
+      "so": "cadaalad",
+      "ar": "عدالة"
+    },
+    "knowledge": {
+      "am": "እውቀት",
+      "om": "beekumsa",
+      "ti": "ፍልጠት",
+      "so": "aqoon",
+      "ar": "معرفة"
+    },
+    "dream": {
+      "am": "ሕልም",
+      "om": "abjuu",
+      "ti": "ሕልሚ",
+      "so": "riyo",
+      "ar": "حلم"
+    },
+    "language": {
+      "am": "ቋንቋ",
+      "om": "afaan",
+      "ti": "ቋንቋ",
+      "so": "luqad",
+      "ar": "لغة"
+    },
+    "word": {
+      "am": "ቃል",
+      "om": "jecha",
+      "ti": "ቃል",
+      "so": "erey",
+      "ar": "كلمة"
+    },
+    "story": {
+      "am": "ታሪክ",
+      "om": "oduu",
+      "ti": "ዛንታ",
+      "so": "sheeko",
+      "ar": "قصة"
+    },
+    "song": {
+      "am": "ዘፈን",
+      "om": "sirba",
+      "ti": "ደርፊ",
+      "so": "hees",
+      "ar": "أغنية"
+    },
+    "music": {
+      "am": "ሙዚቃ",
+      "om": "muuziqaa",
+      "ti": "ሙዚቃ",
+      "so": "muusig",
+      "ar": "موسيقى"
+    },
+    "lesson": {
+      "am": "ትምህርት",
+      "om": "barnoota",
+      "ti": "ትምህርቲ",
+      "so": "cashar",
+      "ar": "درس"
+    },
+    "exam": {
+      "am": "ፈተና",
+      "om": "qormaata",
+      "ti": "ፈተና",
+      "so": "imtixaan",
+      "ar": "امتحان"
+    },
+    "question": {
+      "am": "ጥያቄ",
+      "om": "gaaffii",
+      "ti": "ሕቶ",
+      "so": "su'aal",
+      "ar": "سؤال"
+    },
+    "answer": {
+      "am": "መልስ",
+      "om": "deebii",
+      "ti": "መልሲ",
+      "so": "jawaab",
+      "ar": "جواب"
+    },
+    "job": {
+      "am": "ሥራ",
+      "om": "hojii",
+      "ti": "ስራሕ",
+      "so": "shaqo",
+      "ar": "وظيفة"
+    },
+    "office": {
+      "am": "ቢሮ",
+      "om": "biiroo",
+      "ti": "ቢሮ",
+      "so": "xafiis",
+      "ar": "مكتب"
+    },
+    "computer": {
+      "am": "ኮምፒውተር",
+      "om": "kompiitara",
+      "ti": "ኮምፒተር",
+      "so": "kombuyuutar",
+      "ar": "حاسوب"
+    },
+    "price": {
+      "am": "ዋጋ",
+      "om": "gatii",
+      "ti": "ዋጋ",
+      "so": "qiimo",
+      "ar": "سعر"
+    },
+    "cheap": {
+      "am": "ርካሽ",
+      "om": "gatii xiqqaa",
+      "ti": "ርካሽ",
+      "so": "raqiis",
+      "ar": "رخيص"
+    },
+    "expensive": { "am": "ውድ", "om": "qaalii", "so": "qaali", "ar": "غالي" },
+    "shop": {
+      "am": "ሱቅ",
+      "om": "dukkaana",
+      "ti": "ድኳን",
+      "so": "dukaan",
+      "ar": "متجر"
+    },
+    "customer": {
+      "am": "ደንበኛ",
+      "om": "maamilaa",
+      "ti": "ዓሚል",
+      "so": "macmiil",
+      "ar": "زبون"
+    },
+    "trade": {
+      "am": "ንግድ",
+      "om": "daldala",
+      "ti": "ንግዲ",
+      "so": "ganacsi",
+      "ar": "تجارة"
+    },
+    "bank": {
+      "am": "ባንክ",
+      "om": "baankii",
+      "ti": "ባንኪ",
+      "so": "bangi",
+      "ar": "بنك"
+    },
+    "gold": {
+      "am": "ወርቅ",
+      "om": "warqee",
+      "ti": "ወርቂ",
+      "so": "dahab",
+      "ar": "ذهب"
+    },
+    "health": {
+      "am": "ጤና",
+      "om": "fayyaa",
+      "ti": "ጥዕና",
+      "so": "caafimaad",
+      "ar": "صحة"
+    },
+    "sick": {
+      "am": "የታመመ",
+      "om": "dhukkubsataa",
+      "ti": "ሕሙም",
+      "so": "buka",
+      "ar": "مريض"
+    },
+    "medicine": {
+      "am": "መድኃኒት",
+      "om": "qoricha",
+      "ti": "መድሓኒት",
+      "so": "dawo",
+      "ar": "دواء"
+    },
+    "pain": {
+      "am": "ህመም",
+      "om": "dhukkubbii",
+      "ti": "ሕማም",
+      "so": "xanuun",
+      "ar": "ألم"
+    },
+    "north": {
+      "am": "ሰሜን",
+      "om": "kaabaa",
+      "ti": "ሰሜን",
+      "so": "waqooyi",
+      "ar": "شمال"
+    },
+    "south": {
+      "am": "ደቡብ",
+      "om": "kibba",
+      "ti": "ደቡብ",
+      "so": "koonfur",
+      "ar": "جنوب"
+    },
+    "east": {
+      "am": "ምሥራቅ",
+      "om": "bahaa",
+      "ti": "ምብራቕ",
+      "so": "bari",
+      "ar": "شرق"
+    },
+    "west": {
+      "am": "ምዕራብ",
+      "om": "dhihaa",
+      "ti": "ምዕራብ",
+      "so": "galbeed",
+      "ar": "غرب"
+    },
+    "left": {
+      "am": "ግራ",
+      "om": "bitaa",
+      "ti": "ጸጋም",
+      "so": "bidix",
+      "ar": "يسار"
+    },
+    "right": {
+      "am": "ቀኝ",
+      "om": "mirga",
+      "ti": "የማን",
+      "so": "midig",
+      "ar": "يمين"
+    },
+    "up": { "am": "ላይ", "om": "ol", "ti": "ላዕሊ", "so": "kor", "ar": "فوق" },
+    "down": {
+      "am": "ታች",
+      "om": "gadi",
+      "ti": "ታሕቲ",
+      "so": "hoos",
+      "ar": "تحت"
+    },
+    "inside": {
+      "am": "ውስጥ",
+      "om": "keessa",
+      "ti": "ውሽጢ",
+      "so": "gudaha",
+      "ar": "داخل"
+    },
+    "outside": {
+      "am": "ውጭ",
+      "om": "alatti",
+      "ti": "ደገ",
+      "so": "dibadda",
+      "ar": "خارج"
+    },
+    "here": {
+      "am": "እዚህ",
+      "om": "as",
+      "ti": "ኣብዚ",
+      "so": "halkan",
+      "ar": "هنا"
+    },
+    "there": {
+      "am": "እዚያ",
+      "om": "achi",
+      "ti": "ኣብኡ",
+      "so": "halkaas",
+      "ar": "هناك"
+    },
+    "who": { "am": "ማን", "om": "eenyu", "ti": "መን", "so": "yaa", "ar": "من" },
+    "what": {
+      "am": "ምን",
+      "om": "maal",
+      "ti": "እንታይ",
+      "so": "maxay",
+      "ar": "ماذا"
+    },
+    "where": {
+      "am": "የት",
+      "om": "eessa",
+      "ti": "ኣበይ",
+      "so": "xaggee",
+      "ar": "أين"
+    },
+    "when": {
+      "am": "መቼ",
+      "om": "yoom",
+      "ti": "መዓስ",
+      "so": "goorma",
+      "ar": "متى"
+    },
+    "why": {
+      "am": "ለምን",
+      "om": "maaliif",
+      "ti": "ስለምንታይ",
+      "so": "waayo",
+      "ar": "لماذا"
+    },
+    "how": {
+      "am": "እንዴት",
+      "om": "akkamitti",
+      "ti": "ከመይ",
+      "so": "sidee",
+      "ar": "كيف"
+    },
+    "shirt": {
+      "am": "ሸሚዝ",
+      "om": "shamiisii",
+      "ti": "ሸሚዝ",
+      "so": "shaadh",
+      "ar": "قميص"
+    },
+    "trousers": {
+      "am": "ሱሪ",
+      "om": "surree",
+      "ti": "ሱሪ",
+      "so": "surwaal",
+      "ar": "بنطلون"
+    },
+    "hat": {
+      "am": "ኮፍያ",
+      "om": "koofiyaa",
+      "ti": "ቆብ",
+      "so": "koofiyad",
+      "ar": "قبعة"
+    },
+    "coat": {
+      "am": "ጃኬት",
+      "om": "jaakeetii",
+      "ti": "ጃኬት",
+      "so": "jaakad",
+      "ar": "معطف"
+    },
+    "bag": { "am": "ቦርሳ", "ti": "ቦርሳ", "so": "shandad", "ar": "حقيبة" },
+    "ring": { "am": "ቀለበት", "ti": "ቀለበት", "so": "faraanti", "ar": "خاتم" },
+    "knife": {
+      "am": "ቢላዋ",
+      "om": "billaawaa",
+      "ti": "ካራ",
+      "so": "mindi",
+      "ar": "سكين"
+    },
+    "spoon": {
+      "am": "ማንኪያ",
+      "om": "cuunfaa",
+      "ti": "ማንካ",
+      "so": "qaaddo",
+      "ar": "ملعقة"
+    },
+    "plate": {
+      "am": "ሳህን",
+      "om": "saaniyyaa",
+      "ti": "ሰሓን",
+      "so": "saxan",
+      "ar": "صحن"
+    },
+    "pot": { "am": "ድስት", "ti": "ድስቲ", "so": "digsi", "ar": "قدر" },
+    "farm": {
+      "am": "እርሻ",
+      "om": "qonna",
+      "ti": "እርሻ",
+      "so": "beer",
+      "ar": "مزرعة"
+    },
+    "seed": {
+      "am": "ዘር",
+      "om": "sanyii",
+      "ti": "ዘርኢ",
+      "so": "abuur",
+      "ar": "بذرة"
+    },
+    "harvest": { "am": "መከር", "ti": "ዓጽዲ", "so": "goosasho", "ar": "حصاد" },
+    "cloud": {
+      "am": "ደመና",
+      "om": "duumessa",
+      "ti": "ደበና",
+      "so": "daruur",
+      "ar": "سحابة"
+    },
+    "forest": {
+      "am": "ጫካ",
+      "om": "bosona",
+      "ti": "ጫካ",
+      "so": "duur",
+      "ar": "غابة"
+    },
+    "lake": {
+      "am": "ሐይቅ",
+      "om": "haroo",
+      "ti": "ሓይቂ",
+      "so": "haro",
+      "ar": "بحيرة"
+    },
+    "flower": {
+      "am": "አበባ",
+      "om": "daraaraa",
+      "ti": "ዕምባባ",
+      "so": "ubax",
+      "ar": "زهرة"
+    },
+    "grass": {
+      "am": "ሣር",
+      "om": "marga",
+      "ti": "ሳዕሪ",
+      "so": "caws",
+      "ar": "عشب"
+    },
+    "desert": { "am": "በረሃ", "ti": "በረኻ", "so": "lamadhuur", "ar": "صحراء" },
+    "family": {
+      "am": "ቤተሰብ",
+      "om": "maatii",
+      "ti": "ስድራ ቤት",
+      "so": "qoys",
+      "ar": "عائلة"
+    },
+    "guest": {
+      "am": "እንግዳ",
+      "om": "keessummaa",
+      "ti": "ዕንግዳ",
+      "so": "marti",
+      "ar": "ضيف"
+    },
+    "wedding": {
+      "am": "ሠርግ",
+      "om": "cidha",
+      "ti": "መርዓ",
+      "so": "aroos",
+      "ar": "زفاف"
+    },
+    "holiday": {
+      "am": "በዓል",
+      "om": "ayyaana",
+      "ti": "ባዓል",
+      "so": "ciid",
+      "ar": "عيد"
+    },
+    "church": {
+      "am": "ቤተ ክርስቲያን",
+      "ti": "ቤተ ክርስትያን",
+      "so": "kaniisad",
+      "ar": "كنيسة"
+    },
+    "gift": {
+      "am": "ስጦታ",
+      "om": "kennaa",
+      "ti": "ህያብ",
+      "so": "hadiyad",
+      "ar": "هدية"
+    },
+    "secret": {
+      "am": "ምስጢር",
+      "om": "iccitii",
+      "ti": "ምስጢር",
+      "so": "sir",
+      "ar": "سر"
+    },
+    "leader": {
+      "am": "መሪ",
+      "om": "geggeessaa",
+      "ti": "መራሒ",
+      "so": "hoggaamiye",
+      "ar": "قائد"
+    },
+    "government": {
+      "am": "መንግሥት",
+      "om": "mootummaa",
+      "ti": "መንግስቲ",
+      "so": "dawlad",
+      "ar": "حكومة"
+    },
+    "law": {
+      "am": "ሕግ",
+      "om": "seera",
+      "ti": "ሕጊ",
+      "so": "sharci",
+      "ar": "قانون"
+    },
+    "war": {
+      "am": "ጦርነት",
+      "om": "waraana",
+      "ti": "ውግእ",
+      "so": "dagaal",
+      "ar": "حرب"
+    },
+    "vote": {
+      "am": "ድምፅ",
+      "om": "sagalee",
+      "ti": "ድምጺ",
+      "so": "cod",
+      "ar": "صوت"
+    },
+    "pen": { "am": "እስክሪብቶ", "om": "qalama", "so": "qalin", "ar": "قلم" },
+    "library": {
+      "am": "ቤተ መጻሕፍት",
+      "om": "mana kitaabaa",
+      "ti": "ቤተ መጽሓፍቲ",
+      "so": "maktabad",
+      "ar": "مكتبة"
+    },
+    "university": {
+      "am": "ዩኒቨርሲቲ",
+      "om": "yuunivarsiitii",
+      "ti": "ዩኒቨርሲቲ",
+      "so": "jaamacad",
+      "ar": "جامعة"
+    },
+    "internet": {
+      "am": "በይነመረብ",
+      "om": "intarneetii",
+      "ti": "ኢንተርነት",
+      "so": "internet",
+      "ar": "إنترنت"
+    },
+    "email": {
+      "am": "ኢሜይል",
+      "om": "imeelii",
+      "ti": "ኢሜይል",
+      "so": "iimayl",
+      "ar": "بريد إلكتروني"
+    },
+    "map": {
+      "am": "ካርታ",
+      "om": "kaartaa",
+      "ti": "ካርታ",
+      "so": "khariidad",
+      "ar": "خريطة"
+    },
+    "number": {
+      "am": "ቁጥር",
+      "om": "lakkoofsa",
+      "ti": "ቁጽሪ",
+      "so": "nambar",
+      "ar": "رقم"
+    },
+    "science": {
+      "am": "ሳይንስ",
+      "om": "saayinsii",
+      "ti": "ሳይንስ",
+      "so": "sayniska",
+      "ar": "علم"
+    },
+    "history": {
+      "am": "ታሪክ",
+      "om": "seenaa",
+      "ti": "ታሪኽ",
+      "so": "taariikh",
+      "ar": "تاريخ"
+    },
+    "cough": {
+      "am": "ሳል",
+      "om": "qufaa",
+      "ti": "ሰዓል",
+      "so": "qufac",
+      "ar": "سعال"
+    },
+    "pharmacy": {
+      "am": "ፋርማሲ",
+      "om": "faarmaasii",
+      "ti": "ፋርማሲ",
+      "so": "farmasi",
+      "ar": "صيدلية"
+    },
+    "nurse": {
+      "am": "ነርስ",
+      "om": "narsii",
+      "ti": "ነርስ",
+      "so": "kalkaaliso",
+      "ar": "ممرضة"
+    },
+    "vaccine": {
+      "am": "ክትባት",
+      "om": "talaalii",
+      "ti": "ክታበት",
+      "so": "tallaal",
+      "ar": "لقاح"
+    },
+    "clinic": {
+      "am": "ክሊኒክ",
+      "om": "kilinikii",
+      "ti": "ክሊኒክ",
+      "so": "rugcelis",
+      "ar": "عيادة"
+    },
+    "airport": {
+      "am": "አየር ማረፊያ",
+      "om": "buufata xiyyaaraa",
+      "so": "garoonka diyaaradaha",
+      "ar": "مطار"
+    },
+    "ticket": {
+      "am": "ትኬት",
+      "om": "tikeetii",
+      "ti": "ትኬት",
+      "so": "tigidh",
+      "ar": "تذكرة"
+    },
+    "hotel": {
+      "am": "ሆቴል",
+      "om": "hoteela",
+      "ti": "ሆቴል",
+      "so": "huteel",
+      "ar": "فندق"
+    },
+    "border": { "am": "ድንበር", "om": "daangaa", "so": "xadka", "ar": "حدود" },
+    "bridge": {
+      "am": "ድልድይ",
+      "om": "riqicha",
+      "ti": "ድልድል",
+      "so": "buundo",
+      "ar": "جسر"
+    },
+    "injera": {
+      "am": "እንጀራ",
+      "om": "injeera",
+      "ti": "እንጀራ",
+      "so": "canjeero",
+      "ar": "إنجيرا"
+    },
+    "teff": { "am": "ጤፍ", "om": "xaafii" },
+    "berbere": { "am": "በርበሬ", "so": "በርበረ" },
+    "shiro": { "am": "ሽሮ", "om": "shiroo", "ti": "ሽሮ" },
+    "doro wat": { "am": "ዶሮ ወጥ", "om": "doro wat", "ti": "ጸብሒ ደርሆ" },
+    "kitfo": { "am": "ክትፎ", "om": "kitfoo", "ti": "ክትፎ" },
+    "tej": { "am": "ጠጅ", "om": "daadhii", "ti": "ጠጅ" },
+    "coffee ceremony": {
+      "am": "የቡና ሥነ ሥርዓት",
+      "om": "sirna bunaa",
+      "ti": "ስነ ስርዓት ቡን"
+    },
+    "jebena": { "am": "ጀበና", "om": "jabanaa", "ti": "ጀበና" },
+    "birr": {
+      "am": "ብር",
+      "om": "birrii",
+      "ti": "ብር",
+      "so": "birr",
+      "ar": "بير"
+    },
+    "merkato": { "am": "መርካቶ", "om": "Merkaatoo", "ti": "መርካቶ" },
+    "meskel": { "am": "መስቀል", "om": "Masqala", "ti": "መስቀል" },
+    "timkat": { "am": "ጥምቀት", "ti": "ጥምቀት" },
+    "enkutatash": { "am": "እንቁጣጣሽ", "om": "Bara haaraa", "ti": "ሓድሽ ዓመት" },
+    "irreecha": { "am": "ኢሬቻ", "om": "Irreecha" },
+    "gada system": { "am": "ገዳ ሥርዓት", "om": "sirna Gadaa" },
+    "ethiopian calendar": { "am": "የኢትዮጵያ ዘመን አቆጣጠር" },
+    "ge'ez": { "am": "ግዕዝ", "om": "Gi'iiz", "ti": "ግዕዝ" },
+    "fidel": { "am": "ፊደል", "ti": "ፊደል" },
+    "lalibela": { "am": "ላሊበላ", "om": "Laalibalaa", "ti": "ላሊበላ" },
+    "axum": { "am": "አክሱም", "om": "Aksum", "ti": "ኣኽሱም" },
+    "blue nile": { "am": "ዓባይ", "om": "Abbaay", "ti": "ዓባይ" },
+    "lake tana": { "am": "ጣና ሐይቅ", "om": "Haroo Taanaa" },
+    "simien mountains": { "am": "ስሚን ተራሮች" },
+    "great rift valley": { "am": "ታላቁ ስምጥ ሸለቆ" },
+    "harar": { "am": "ሐረር", "om": "Hararee", "ti": "ሐረር" },
+    "finfinnee": { "am": "ፊንፊኔ", "om": "Finfinnee" },
+    "afaan oromo": { "am": "ኦሮምኛ", "om": "Afaan Oromoo", "ti": "ኦሮምኛ" },
+    "tigrinya": { "am": "ትግርኛ", "om": "Tigiriffa", "ti": "ትግርኛ" },
+    "somali language": {
+      "am": "ሶማልኛ",
+      "om": "Afaan Somaalee",
+      "so": "Af-Soomaali",
+      "ar": "اللغة الصومالية"
+    },
+    "gursha": { "am": "ጉርሻ" },
+    "mesob": { "am": "መሶብ" },
+    "netela": { "am": "ነጠላ" },
+    "habesha kemis": { "am": "ሀበሻ ቀሚስ" }
+  },
+  "m": {}
+}

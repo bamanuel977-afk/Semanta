@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, viewport-fit=cover"
+    />
+    <title>SEMANTA · a dictionary in every tongue</title>
+    <meta
+      name="description"
+      content="SEMANTA: 42,000+ English words with meanings and translations in Amharic, Afaan Oromo, Tigrinya, Somali and Arabic. Works offline."
+    />
+    <meta name="theme-color" content="#0f766e" />
+    <link rel="manifest" href="manifest.webmanifest" />
+    <link rel="icon" href="icons/icon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="icons/icon-192.png" />
+    <link rel="stylesheet" href="css/app.css" />
+    <script>
+      (function () {
+        try {
+          var t = JSON.parse(localStorage.getItem("lexora:theme") || '"auto"');
+          var dark =
+            t === "dark" ||
+            (t === "auto" &&
+              matchMedia("(prefers-color-scheme: dark)").matches);
+          document.documentElement.dataset.theme = dark ? "dark" : "light";
+          var s = JSON.parse(localStorage.getItem("lexora:size") || "100");
+          document.documentElement.style.fontSize = s + "%";
+        } catch (e) {
+          document.documentElement.dataset.theme = "light";
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <a class="skip" href="#view">Skip to content</a>
+    <header class="top">
+      <a class="brand" href="#/" aria-label="SEMANTA home">
+        <span class="logo" aria-hidden="true">S</span>
+        <span class="brand-text"
+          ><strong>SEMANTA</strong><small>ቃS · Jecha · Word</small></span
+        >
+      </a>
+      <div class="top-actions">
+        <span class="status" id="status" role="status"
+          ><i></i><span>Loading…</span></span
+        >
+        <button
+          class="icon-btn"
+          id="themeBtn"
+          aria-label="Switch light or dark theme"
+        ></button>
+        <button
+          class="icon-btn"
+          id="settingsBtn"
+          aria-label="Settings"
+        ></button>
+      </div>
+    </header>
+
+    <nav class="nav" aria-label="Main">
+      <a href="#/" data-nav="home"
+        ><span data-i="search"></span><b>Search</b></a
+      >
+      <a href="#/topics" data-nav="topics"
+        ><span data-i="grid"></span><b>Topics</b></a
+      >
+      <a href="#/learn" data-nav="learn"
+        ><span data-i="cap"></span><b>Learn</b></a
+      >
+      <a href="#/speak" data-nav="speak"
+        ><span data-i="mic"></span><b>Speak</b></a
+      >
+      <a href="#/library" data-nav="library"
+        ><span data-i="bookmark"></span><b>Library</b></a
+      >
+    </nav>
+
+    <main id="view" tabindex="-1" aria-live="polite"></main>
+
+    <div id="splash" role="status">
+      <div class="splash-card">
+        <div class="logo big" aria-hidden="true">S</div>
+        <h1>SEMANTA</h1>
+        <p id="splashMsg">Opening the library…</p>
+        <div class="bar"><i id="splashBar"></i></div>
+        <small
+          >The first visit downloads the dictionary once (about 1.7 MB). After
+          that it works without internet.</small
+        >
+      </div>
+    </div>
+    <div id="toast" role="status" aria-live="polite"></div>
+    <dialog id="dlg"></dialog>
+    <script src="js/app.js" defer></script>
+  </body>
+</html>

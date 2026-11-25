@@ -1,0 +1,328 @@
+# Hand-made core vocabulary.  Columns: English | Amharic | Afaan Oromo | Tigrinya | Somali | Arabic
+# A line starting with "#Name|emoji|Amharic name|Oromo name" starts a topic. Leave a column empty if unsure.
+#Greetings|👋|ሰላምታ|Nagaa
+hello|ሰላም|akkam|ሰላም|salaam|مرحبا
+goodbye|ቻው|nagaatti|ደሓን ኩን|nabad gelyo|مع السلامة
+thank you|አመሰግናለሁ|galatoomi|የቐንየለይ|mahadsanid|شكرا
+please|እባክህ|maaloo|በጃኻ|fadlan|من فضلك
+yes|አዎ|eeyyee|እወ|haa|نعم
+no|አይ|lakki|ኣይፋል|maya|لا
+sorry|ይቅርታ|dhiifama|ይቕሬታ|raali ahow|آسف
+welcome|እንኳን ደህና መጡ|baga nagaan dhuftan|እንቋዕ ብደሓን መጻእካ|soo dhawow|أهلا وسهلا
+good morning|እንደምን አደርክ|akkam bulte|ከመይ ሓዲርካ|subax wanaagsan|صباح الخير
+good night|ደህና እደር|halkan nagaa|ደሓን ሕደር|habeen wanaagsan|تصبح على خير
+how are you|እንዴት ነህ|akkam jirta|ከመይ ኣለኻ|sidee tahay|كيف حالك|A common greeting used to ask politely about how someone is feeling.
+name|ስም|maqaa|ስም|magac|اسم
+#Family & People|👨‍👩‍👧|ቤተሰብና ሰዎች|Maatii fi namoota
+mother|እናት|haadha|ኣደ|hooyo|أم
+father|አባት|abbaa|ኣቦ|aabo|أب
+brother|ወንድም|obboleessa|ሓው|walaal|أخ
+sister|እህት|obboleettii|ሓፍቲ|walaalo|أخت
+son|ወንድ ልጅ|ilma|ወዲ|wiil|ابن
+daughter|ሴት ልጅ|intala|ጓል|gabadh|ابنة
+child|ልጅ|mucaa|ቆልዓ|ilmo|طفل
+baby|ሕፃን|daa'ima|ሕጻን|ilmo yar|رضيع
+man|ወንድ|dhiira|ሰብኣይ|nin|رجل
+woman|ሴት|dubartii|ሰበይቲ|naag|امرأة
+husband|ባል|dhirsa|ሰብኣይ|nin|زوج
+wife|ሚስት|niitii|ሰበይቲ|xaas|زوجة
+friend|ጓደኛ|hiriyyaa|ዓርኪ|saaxiib|صديق
+neighbour|ጎረቤት|olloo|ጎረቤት|deris|جار
+person|ሰው|nama|ሰብ|qof|شخص
+teacher|አስተማሪ|barsiisaa|መምህር|macallin|معلم
+student|ተማሪ|barataa|ተማሃራይ|arday|طالب
+doctor|ሐኪም|doktora|ሓኪም|dhakhtar|طبيب
+farmer|ገበሬ|qotee bulaa|ሓረስታይ|beeraley|فلاح
+king|ንጉሥ|mootii|ንጉስ|boqor|ملك
+#Body|🫀|የሰውነት ክፍሎች|Qaama
+head|ራስ|mataa|ርእሲ|madax|رأس
+eye|ዓይን|ija|ዓይኒ|il|عين
+ear|ጆሮ|gurra|እዝኒ|dheg|أذن
+nose|አፍንጫ|funyaan|ኣፍንጫ|san|أنف
+mouth|አፍ|afaan|ኣፍ|afka|فم
+face|ፊት|fuula|ገጽ|wejiga|وجه
+hand|እጅ|harka|ኢድ|gacan|يد
+foot|እግር|miila|እግሪ|cag|قدم
+heart|ልብ|onnee|ልቢ|wadne|قلب
+tooth|ጥርስ|ilkaan|ስኒ|ilig|سن
+hair|ፀጉር|rifeensa|ጸጉሪ|timo|شعر
+blood|ደም|dhiiga|ደም|dhiig|دم
+bone|አጥንት|lafee|ዓጽሚ|lafo|عظم
+stomach|ሆድ|garaa|ከብዲ|calool|معدة
+#Food & Drink|🍲|ምግብና መጠጥ|Nyaata fi dhugaatii
+food|ምግብ|nyaata|መግቢ|cunto|طعام
+water|ውሃ|bishaan|ማይ|biyo|ماء
+bread|ዳቦ|daabboo||rooti|خبز
+milk|ወተት|aannan|ጸባ|caano|حليب
+meat|ሥጋ|foon|ስጋ|hilib|لحم
+egg|እንቁላል|killee|እንቋቝሖ|ukun|بيضة
+rice|ሩዝ|ruuzii|ሩዝ|bariis|أرز
+salt|ጨው|soogidda|ጨው|milix|ملح
+sugar|ስኳር|sukkaara|ሽኮር|sonkor|سكر
+coffee|ቡና|buna|ቡን|bun|قهوة
+tea|ሻይ|shaayii|ሻሂ|shaah|شاي
+fish|ዓሣ|qurxummii|ዓሳ|kalluun|سمك
+fruit|ፍራፍሬ|fuduraa|ፍረ|miro|فاكهة
+vegetable|አትክልት|kuduraa|ኣትክልቲ|khudrad|خضار
+banana|ሙዝ|muuzii|ሙዝ|moos|موز
+orange|ብርቱካን|burtukaana|ብርቱካን|liin|برتقال
+tomato|ቲማቲም|timaatima|ቲማቲም|yaanyo|طماطم
+onion|ሽንኩርት|shunkurtii|ሽጉርቲ|basal|بصل
+potato|ድንች|dinnicha||baradho|بطاطس
+honey|ማር|damma|መዓር|malab|عسل
+oil|ዘይት|zayitii|ዘይቲ|saliid|زيت
+#Home & Things|🏠|ቤትና ዕቃዎች|Mana fi meeshaalee
+house|ቤት|mana|ገዛ|guri|بيت
+door|በር|balbala|ማዕጾ|albaab|باب
+window|መስኮት|foddaa|መስኮት|daaqad|نافذة
+table|ጠረጴዛ|minjaala|ጠረጴዛ|miis|طاولة
+chair|ወንበር|teessoo|ወንበር|kursi|كرسي
+bed|አልጋ|siree|ዓራት|sariir|سرير
+key|ቁልፍ|furtuu|መፍትሕ|fure|مفتاح
+book|መጽሐፍ|kitaaba|መጽሓፍ|buug|كتاب
+paper|ወረቀት|waraqaa|ወረቐት|warqad|ورق
+telephone|ስልክ|bilbila|ተሌፎን|taleefan|هاتف
+money|ገንዘብ|maallaqa|ገንዘብ|lacag|مال
+clothes|ልብስ|uffata|ክዳን|dhar|ملابس
+shoe|ጫማ|kophee|ጫማ|kabo|حذاء
+light|ብርሃን|ifa|ብርሃን|iftiin|ضوء
+fire|እሳት|ibidda|ሓዊ|dab|نار
+car|መኪና|konkolaataa|መኪና|baabuur|سيارة
+road|መንገድ|karaa|መገዲ|waddo|طريق
+#Nature & Animals|🌿|ተፈጥሮና እንስሳት|Uumama fi bineensota
+sun|ፀሐይ|aduu|ጸሓይ|qorrax|شمس
+moon|ጨረቃ|ji'a|ወርሒ|dayax|قمر
+star|ኮከብ|urjii|ኮኸብ|xiddig|نجم
+sky|ሰማይ|samii|ሰማይ|samo|سماء
+rain|ዝናብ|rooba|ዝናብ|roob|مطر
+wind|ነፋስ|qilleensa|ንፋስ|dabayl|ريح
+river|ወንዝ|laga|ሩባ|webi|نهر
+mountain|ተራራ|tulluu|ጎቦ|buur|جبل
+tree|ዛፍ|mukaa|ኦም|geed|شجرة
+land|መሬት|lafa|መሬት|dhul|أرض
+sea|ባሕር|galaana|ባሕሪ|badda|بحر
+animal|እንስሳ|bineensa|እንስሳ|xayawaan|حيوان
+cow|ላም|saa|ላም|sac|بقرة
+dog|ውሻ|saree|ከልቢ|eey|كلب
+horse|ፈረስ|farda|ፈረስ|faras|حصان
+goat|ፍየል|re'ee||riyo|ماعز
+sheep|በግ|hoolaa||adhi|خروف
+lion|አንበሳ|leenca|ኣንበሳ|libaax|أسد
+#Colors|🎨|ቀለማት|Halluu
+red|ቀይ|diimaa|ቀይሕ|casaan|أحمر
+green|አረንጓዴ|magariisa|ሓምላይ|cagaar|أخضر
+yellow|ቢጫ|keelloo||huruud|أصفر
+black|ጥቁር|gurraacha|ጸሊም|madow|أسود
+white|ነጭ|adii|ጻዕዳ|caddaan|أبيض
+blue|ሰማያዊ|cuquliisa|ሰማያዊ|buluug|أزرق
+#Numbers|🔢|ቁጥሮች|Lakkoofsota
+zero|ዜሮ|zeeroo|ዜሮ|eber|صفر
+one|አንድ|tokko|ሓደ|hal|واحد
+two|ሁለት|lama|ክልተ|laba|اثنان
+three|ሦስት|sadii|ሰለስተ|saddex|ثلاثة
+four|አራት|afur|ኣርባዕተ|afar|أربعة
+five|አምስት|shan|ሓሙሽተ|shan|خمسة
+six|ስድስት|ja'a|ሽድሽተ|lix|ستة
+seven|ሰባት|torba|ሸውዓተ|toddobo|سبعة
+eight|ስምንት|saddeet|ሸሞንተ|siddeed|ثمانية
+nine|ዘጠኝ|sagal|ትሽዓተ|sagaal|تسعة
+ten|አስር|kudhan|ዓሰርተ|toban|عشرة
+hundred|መቶ|dhibba|ሚእቲ|boqol|مئة
+thousand|ሺህ|kuma|ሽሕ|kun|ألف
+#Time|⏳|ጊዜ|Yeroo
+time|ጊዜ|yeroo|ግዜ|waqti|وقت
+now|አሁን|amma|ሕጂ|hadda|الآن
+day|ቀን|guyyaa|መዓልቲ|maalin|يوم
+night|ሌሊት|halkan|ለይቲ|habeen|ليل
+morning|ጠዋት|ganama|ንግሆ|subax|صباح
+evening|ምሽት|galgala|ምሸት|fiid|مساء
+today|ዛሬ|har'a|ሎሚ|maanta|اليوم
+tomorrow|ነገ|boru|ጽባሕ|berri|غدا
+yesterday|ትናንት|kaleessa|ትማሊ|shalay|أمس
+week|ሳምንት|torban|ሰሙን|toddobaad|أسبوع
+month|ወር|ji'a|ወርሒ|bil|شهر
+year|ዓመት|waggaa|ዓመት|sannad|سنة
+#Places & Travel|🏙️|ቦታዎችና ጉዞ|Iddoowwan fi imala
+city|ከተማ|magaalaa|ከተማ|magaalo|مدينة
+village|መንደር|ganda|ዓዲ|tuulo|قرية
+market|ገበያ|gabaa|ዕዳጋ|suuq|سوق
+school|ትምህርት ቤት|mana barumsaa|ቤት ትምህርቲ|dugsi|مدرسة
+hospital|ሆስፒታል|hospitaala|ሆስፒታል|isbitaal|مستشفى
+mosque|መስጊድ|masjida|መስጊድ|masaajid|مسجد
+country|አገር|biyya|ሃገር|waddan|بلد
+bus|አውቶቡስ|awutobusii|ኣውቶቡስ|bas|حافلة
+train|ባቡር|baabura|ባቡር|tareen|قطار
+airplane|አውሮፕላን|xiyyaara|ነፋሪት|diyaarad|طائرة|A powered flying vehicle with fixed wings that carries passengers or cargo through the air.
+#Actions|🏃|ድርጊቶች|Gochaalee
+eat|መብላት|nyaachuu|ምብላዕ|cun|أكل
+drink|መጠጣት|dhuguu|ምስታይ|cab|شرب
+go|መሄድ|deemuu|ምኻድ|tag|ذهب
+come|መምጣት|dhufuu|ምምጻእ||جاء
+see|ማየት|arguu|ምርኣይ|arag|رأى
+hear|መስማት|dhaga'uu|ምስማዕ|maqal|سمع
+speak|መናገር|dubbachuu|ምዝራብ|hadal|تكلم
+read|ማንበብ|dubbisuu|ምንባብ|akhri|قرأ
+write|መጻፍ|barreessuu|ምጽሓፍ|qor|كتب
+sleep|መተኛት|rafuu|ምድቃስ|hurdo|نام
+walk|መራመድ|adeemuu||socod|مشى
+run|መሮጥ|fiiguu|ምጉያይ|orod|ركض
+give|መስጠት|kennuu|ምሃብ|sii|أعطى
+take|መውሰድ|fudhachuu|ምውሳድ|qaado|أخذ
+know|ማወቅ|beekuu|ምፍላጥ|ogaan|عرف
+want|መፈለግ|fedhuu|ምድላይ|doon|أراد
+help|መርዳት|gargaaruu|ምሕጋዝ|caawi|ساعد
+learn|መማር|baruu|ምምሃር|baro|تعلم
+buy|መግዛት|bituu|ምግዛእ|iibso|اشترى
+sell|መሸጥ|gurguruu|ምሻጥ|iibi|باع
+open|መክፈት|banuu|ምኽፋት|fur|فتح
+close|መዝጋት|cufuu|ምዕጻው|xidh|أغلق
+live|መኖር|jiraachuu|ምንባር|nool|عاش
+die|መሞት|du'uu|ምሞት|dhimo|مات
+wait|መጠበቅ|eeguu|ምጽባይ|sug|انتظر
+think|ማሰብ|yaaduu|ምሕሳብ|fakar|فكر
+sit|መቀመጥ|taa'uu|ምቕማጥ|fadhiiso|جلس
+stand|መቆም|dhaabbachuu|ምቝም|istaag|وقف
+laugh|መሳቅ|kofaluu|ምስሓቕ|qosol|ضحك
+cry|ማልቀስ|booyuu|ምብካይ|oohi|بكى
+sing|መዘመር|weeddisuu|ምዝማር|heeso|غنى
+wash|መታጠብ|dhiquu|ምሕጻብ|maydh|غسل
+#Describing words|✨|መግለጫዎች|Ibsitoota
+big|ትልቅ|guddaa|ዓቢ|weyn|كبير
+small|ትንሽ|xiqqaa|ንእሽቶ|yar|صغير
+good|ጥሩ|gaarii|ጽቡቕ|wanaagsan|جيد
+bad|መጥፎ|hamaa|ሕማቕ|xun|سيئ
+new|አዲስ|haaraa|ሓድሽ|cusub|جديد
+old|ያረጀ|durii||duq|قديم
+long|ረጅም|dheeraa|ነዊሕ|dheer|طويل
+short|አጭር|gabaabaa|ሓጺር|gaaban|قصير
+fast|ፈጣን|ariifataa|ቅልጡፍ|dhaqso|سريع
+hot|ሞቃት|ho'aa||kulul|حار
+cold|ቀዝቃዛ|qabbanaa|ቁሪ|qabow|بارد
+happy|ደስተኛ|gammadaa|ሕጉስ|faraxsan|سعيد
+strong|ጠንካራ|jabaa|ሓያል|xoog badan|قوي
+weak|ደካማ|dadhabaa|ድኹም|daciif|ضعيف
+rich|ሀብታም|sooressa|ሃብታም|taajir|غني
+poor|ድሃ|hiyyeessa|ድኻ|miskiin|فقير
+easy|ቀላል|salphaa|ቀሊል|fudud|سهل
+difficult|ከባድ|ulfaataa|ከቢድ|adag|صعب
+heavy|ከባድ|ulfaataa|ከቢድ|culus|ثقيل
+true|እውነት|dhugaa|ሓቂ|run|حقيقي
+free|ነፃ|bilisa|ነጻ|xor|حر
+clean|ንጹህ|qulqulluu|ጽሩይ|nadiif|نظيف
+dirty|ቆሻሻ|xuraa'aa|ርኹስ|wasakh|وسخ
+full|ሙሉ|guutuu|ምሉእ|buuxa|ممتلئ
+empty|ባዶ|duwwaa|ባዶ|madhan|فارغ
+#Feelings & Ideas|💭|ስሜትና ሐሳብ|Miiraa fi yaada
+love|ፍቅር|jaalala|ፍቕሪ|jacayl|حب
+peace|ሰላም|nagaa|ሰላም|nabad|سلام
+life|ሕይወት|jireenya|ህይወት|nolol|حياة
+death|ሞት|du'a|ሞት|geeri|موت
+hope|ተስፋ|abdii|ተስፋ|rajo|أمل
+fear|ፍርሃት|sodaa|ፍርሒ|cabsi|خوف
+freedom|ነፃነት|bilisummaa|ነጻነት|xorriyad|حرية
+justice|ፍትሕ|haqa|ፍትሒ|cadaalad|عدالة
+knowledge|እውቀት|beekumsa|ፍልጠት|aqoon|معرفة
+dream|ሕልም|abjuu|ሕልሚ|riyo|حلم
+language|ቋንቋ|afaan|ቋንቋ|luqad|لغة
+word|ቃል|jecha|ቃል|erey|كلمة
+story|ታሪክ|oduu|ዛንታ|sheeko|قصة
+song|ዘፈን|sirba|ደርፊ|hees|أغنية
+music|ሙዚቃ|muuziqaa|ሙዚቃ|muusig|موسيقى
+#School & Work|🎓|ትምህርትና ሥራ|Barnootaa fi hojii
+lesson|ትምህርት|barnoota|ትምህርቲ|cashar|درس
+exam|ፈተና|qormaata|ፈተና|imtixaan|امتحان
+question|ጥያቄ|gaaffii|ሕቶ|su'aal|سؤال
+answer|መልስ|deebii|መልሲ|jawaab|جواب
+job|ሥራ|hojii|ስራሕ|shaqo|وظيفة
+office|ቢሮ|biiroo|ቢሮ|xafiis|مكتب
+computer|ኮምፒውተር|kompiitara|ኮምፒተር|kombuyuutar|حاسوب
+#Market & Money|🪙|ገበያና ገንዘብ|Gabaa fi maallaqa
+price|ዋጋ|gatii|ዋጋ|qiimo|سعر
+cheap|ርካሽ|gatii xiqqaa|ርካሽ|raqiis|رخيص
+expensive|ውድ|qaalii||qaali|غالي
+shop|ሱቅ|dukkaana|ድኳን|dukaan|متجر
+customer|ደንበኛ|maamilaa|ዓሚል|macmiil|زبون
+trade|ንግድ|daldala|ንግዲ|ganacsi|تجارة
+bank|ባንክ|baankii|ባንኪ|bangi|بنك
+gold|ወርቅ|warqee|ወርቂ|dahab|ذهب
+#Health|⚕️|ጤና|Fayyaa
+health|ጤና|fayyaa|ጥዕና|caafimaad|صحة
+sick|የታመመ|dhukkubsataa|ሕሙም|buka|مريض
+medicine|መድኃኒት|qoricha|መድሓኒት|dawo|دواء
+pain|ህመም|dhukkubbii|ሕማም|xanuun|ألم
+#Directions & Questions|❓|አቅጣጫና ጥያቄ|Kallattii fi gaaffii
+north|ሰሜን|kaabaa|ሰሜን|waqooyi|شمال
+south|ደቡብ|kibba|ደቡብ|koonfur|جنوب
+east|ምሥራቅ|bahaa|ምብራቕ|bari|شرق
+west|ምዕራብ|dhihaa|ምዕራብ|galbeed|غرب
+left|ግራ|bitaa|ጸጋም|bidix|يسار
+right|ቀኝ|mirga|የማን|midig|يمين
+up|ላይ|ol|ላዕሊ|kor|فوق
+down|ታች|gadi|ታሕቲ|hoos|تحت
+inside|ውስጥ|keessa|ውሽጢ|gudaha|داخل
+outside|ውጭ|alatti|ደገ|dibadda|خارج
+here|እዚህ|as|ኣብዚ|halkan|هنا
+there|እዚያ|achi|ኣብኡ|halkaas|هناك
+who|ማን|eenyu|መን|yaa|من
+what|ምን|maal|እንታይ|maxay|ماذا
+where|የት|eessa|ኣበይ|xaggee|أين
+when|መቼ|yoom|መዓስ|goorma|متى
+why|ለምን|maaliif|ስለምንታይ|waayo|لماذا
+how|እንዴት|akkamitti|ከመይ|sidee|كيف
+#Clothes & Style|👕|ልብስና ጌጥ|Uffata fi miidhagsa
+shirt|ሸሚዝ|shamiisii|ሸሚዝ|shaadh|قميص
+trousers|ሱሪ|surree|ሱሪ|surwaal|بنطلون
+hat|ኮፍያ|koofiyaa|ቆብ|koofiyad|قبعة
+coat|ጃኬት|jaakeetii|ጃኬት|jaakad|معطف
+bag|ቦርሳ||ቦርሳ|shandad|حقيبة
+ring|ቀለበት||ቀለበት|faraanti|خاتم
+#Kitchen & Farm|🌾|ማእድ ቤትና እርሻ|Mana nyaataa fi qonna
+knife|ቢላዋ|billaawaa|ካራ|mindi|سكين
+spoon|ማንኪያ|cuunfaa|ማንካ|qaaddo|ملعقة
+plate|ሳህን|saaniyyaa|ሰሓን|saxan|صحن
+pot|ድስት||ድስቲ|digsi|قدر
+farm|እርሻ|qonna|እርሻ|beer|مزرعة
+seed|ዘር|sanyii|ዘርኢ|abuur|بذرة
+harvest|መከር||ዓጽዲ|goosasho|حصاد
+#Weather & Land|⛅|የአየር ሁኔታና መሬት|Haala qilleensaa fi lafa
+cloud|ደመና|duumessa|ደበና|daruur|سحابة
+forest|ጫካ|bosona|ጫካ|duur|غابة
+lake|ሐይቅ|haroo|ሓይቂ|haro|بحيرة
+flower|አበባ|daraaraa|ዕምባባ|ubax|زهرة
+grass|ሣር|marga|ሳዕሪ|caws|عشب
+desert|በረሃ||በረኻ|lamadhuur|صحراء
+#Community & Society|🏛️|ማኅበረሰብና መንግሥት|Hawaasaa fi mootummaa
+family|ቤተሰብ|maatii|ስድራ ቤት|qoys|عائلة
+guest|እንግዳ|keessummaa|ዕንግዳ|marti|ضيف|A person who is invited to visit or stay at your home or event.
+wedding|ሠርግ|cidha|መርዓ|aroos|زفاف
+holiday|በዓል|ayyaana|ባዓል|ciid|عيد
+church|ቤተ ክርስቲያን||ቤተ ክርስትያን|kaniisad|كنيسة
+gift|ስጦታ|kennaa|ህያብ|hadiyad|هدية
+secret|ምስጢር|iccitii|ምስጢር|sir|سر
+leader|መሪ|geggeessaa|መራሒ|hoggaamiye|قائد
+government|መንግሥት|mootummaa|መንግስቲ|dawlad|حكومة
+law|ሕግ|seera|ሕጊ|sharci|قانون
+war|ጦርነት|waraana|ውግእ|dagaal|حرب
+vote|ድምፅ|sagalee|ድምጺ|cod|صوت
+#Study & Tech|💻|ጥናትና ቴክኖሎጂ|Qo'annoo fi teknooloojii
+pen|እስክሪብቶ|qalama||qalin|قلم
+library|ቤተ መጻሕፍት|mana kitaabaa|ቤተ መጽሓፍቲ|maktabad|مكتبة
+university|ዩኒቨርሲቲ|yuunivarsiitii|ዩኒቨርሲቲ|jaamacad|جامعة
+internet|በይነመረብ|intarneetii|ኢንተርነት|internet|إنترنت|The global network that connects computers and phones so people can share information.
+email|ኢሜይል|imeelii|ኢሜይል|iimayl|بريد إلكتروني
+map|ካርታ|kaartaa|ካርታ|khariidad|خريطة
+number|ቁጥር|lakkoofsa|ቁጽሪ|nambar|رقم
+science|ሳይንስ|saayinsii|ሳይንስ|sayniska|علم
+history|ታሪክ|seenaa|ታሪኽ|taariikh|تاريخ
+#Care & Clinic|🩺|እንክብካቤና ክሊኒክ|Kununsa fi kilinikii
+cough|ሳል|qufaa|ሰዓል|qufac|سعال
+pharmacy|ፋርማሲ|faarmaasii|ፋርማሲ|farmasi|صيدلية|A shop where medicines are prepared and sold.
+nurse|ነርስ|narsii|ነርስ|kalkaaliso|ممرضة
+vaccine|ክትባት|talaalii|ክታበት|tallaal|لقاح
+clinic|ክሊኒክ|kilinikii|ክሊኒክ|rugcelis|عيادة
+#Journey|✈️|ጉዞ|Imala
+airport|አየር ማረፊያ|buufata xiyyaaraa||garoonka diyaaradaha|مطار
+ticket|ትኬት|tikeetii|ትኬት|tigidh|تذكرة
+hotel|ሆቴል|hoteela|ሆቴል|huteel|فندق
+border|ድንበር|daangaa||xadka|حدود
+bridge|ድልድይ|riqicha|ድልድል|buundo|جسر
