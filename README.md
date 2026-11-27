@@ -21,11 +21,6 @@ An offline-first dictionary web app for Ethiopia and East Africa.
   Afaan Oromo and Tigrinya speech work too.
 * **Online translation** for any word that has no translation yet (cached, so each word is translated once).
 
-## Run it (Windows / Mac / Linux)
-
-    python -m pip install -r requirements.txt
-    python app.py
-
 Open http://127.0.0.1:5000. The first visit downloads the dictionary (about 1.7 MB); after that it works
 with no internet, and you can install it from the browser menu ("Install app").
 
@@ -45,16 +40,6 @@ and everything else is clearly labelled (**Hand-made / Yours / Machine / Online*
 Set the same `GEMINI_API_KEY` when running `app.py` and online "Translate" buttons use Gemini too.
 **Have a native speaker review** machine translations; the hand-made core list should also be proofread
 (edit `data/curated_translations.tsv`, then run `python build_data.py`).
-
-## Files
-
-    app.py                          Flask server + /api/translate (cache in data/cache.db)
-    build_data.py                   cleans data.json and builds web/data/*.json
-    data/data.json                  your original dictionary
-    data/curated_translations.tsv   hand-made core translations (edit me)
-    data/extra_words.tsv            added Ethiopian / East African words with meanings (edit me)
-    tools/bulk_translate.py         translate more words with Gemini or MyMemory
-    web/                            the app: index.html, css/, js/app.js, sw.js, manifest, icons, data/
 
 ## Notes
 
